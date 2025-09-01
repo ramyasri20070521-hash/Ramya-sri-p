@@ -1,0 +1,9 @@
+
+---
+
+⚡ JavaScript (script.js)
+
+function showMessage() {
+  document.getElementById("msg").innerText = "Welcome, Ramya Sri! 😊";
+}
+
